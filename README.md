@@ -1,2 +1,3 @@
 # hello_world
-A new repository
+Today is first time to study github
+          steven.ou
